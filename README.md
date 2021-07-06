@@ -8,3 +8,5 @@ This project aims to develop open source platforms for all things related to the
 - Information guides, case studies, and video examples on the safe build and manufacturing procedures of e-waste based products, machines and robots
 - Anything else that could be useful!
 
+**A few recent/ongoing projects can be accessed through the following links:**
+- [Link to project: Making an octopus limb from e-waste (Git maintained by Jonah Mack)](https://github.com/Jmack66/Archiv-E-Waste)
