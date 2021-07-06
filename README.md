@@ -1,4 +1,4 @@
-Dr Parvez Alam at The University of Edinburgh. 
+Dr Parvez Alam, School of Engineering, The University of Edinburgh, UK. 
 
 This project aims to develop open source platforms for all things related to the re-use, upcycling and development of e-waste with a strong focus on the design of machines and robots from e-waste. This archive welcome contributions in the following areas:
 
